@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Dilbar. (@dilya22)
-- 👀 I’m interested in statistical analysis, visualization, optimization & model building.
+- 👋 Hello, my name is Dilbar. (@dilya22)
+- 👀 I’m interested in data analysis, visualization, optimization & model building.
 - 🌱 I’m currently working on my personal projects while exploring different datasets & utilizing appropriate tools.
 - 📫 How to reach me: abdurakhimova22@gmail.com
 
